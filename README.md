@@ -1,2 +1,2 @@
 # NetCore-CacheEResiliencia
-Application to demonstrate the use and configuration of Cache and Resilience using the Redis and Polly libraries
+Aplicação para demonstrar a utilização e configuração de Cache e Resiliencia, utilizando as bibliotecas Redis e Polly
